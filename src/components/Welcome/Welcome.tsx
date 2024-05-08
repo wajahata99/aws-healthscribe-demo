@@ -22,11 +22,9 @@ function Welcome() {
         if (isUserAuthenticated) {
             return (
                 <TextContent>
-                    <p>This sample ReactJS-based web app shows the art of the possible in using AWS HealthScribe.</p>
+                    <p>Welcome to Reteta</p>
                     <p>
-                        AWS HealthScribe is a HIPAA-eligible service empowering healthcare software vendors to build
-                        clinical applications that automatically generate clinical notes by analyzing patient-clinician
-                        conversations.
+                        Reteta helps doctors save 2 hours every day by automating documentation work for doctors.
                     </p>
                     <p>Currently this demo allows you to:</p>
                     <ul>
