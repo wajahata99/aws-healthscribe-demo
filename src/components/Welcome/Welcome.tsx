@@ -22,7 +22,7 @@ function Welcome() {
         if (isUserAuthenticated) {
             return (
                 <TextContent>
-                    <p>Welcome to Reteta</p>
+                    <p>Welcome to Reteta. Documentation which take cares of itself.</p>
                     <p>
                         Reteta helps doctors save 2 hours every day by automating documentation work for doctors.
                     </p>
